@@ -1,7 +1,7 @@
 {
   "type": "micro",
   "wake_word": "hey_glados",
-  "model": "./hey_glados.tflite",
+  "model": "./share/openwakeword/hey_glados.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
